@@ -18,12 +18,12 @@ Most interactive websites use cookies to let us retrieve the user’s details fo
 License
 Unless otherwise stated, guarantyresources own the intellectual property rights for all material on guarantyresources. All intellectual property rights are reserved. You may access this from guarantyresources.com for your own personal use subjected to restrictions set in these terms and conditions.
 You are not allowed to:
-<ul>
+<ol>
   <li>Republish material from guarantyresources</li>
   <li>Sell, rent or sub-license material from guarantyresources</li>
   <li>Reproduce, duplicate or copy material from guarantyresources</li>
   <li>Redistribute content from guarantyresources</li>
-</ul>
+</ol>
 
 This Agreement shall begin on the date hereof
 
@@ -31,28 +31,28 @@ Parts of this website may offer an opportunity for users to post and exchange op
 
 Guarantyresources reserves the right to monitor all comments and to remove any comments which can be considered inappropriate, offensive or causes a breach of these terms and conditions.
 You warrant and represent that:
-<ul>
+<ol>
 <li> 	You are entitled to post the Comments on our website and have all necessary licenses and consents to do so;</li>
 <li> The Comments do not invade any intellectual property right, including without limitation copyright, patent or trademark of any third party;</li>
 <li> The Comments do not contain any defamatory, libelous, offensive, indecent or otherwise unlawful material which is an invasion of privacy</li>
 <li> The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.</li>
 <li> You hereby grant guarantyresources a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your comments in any and all forms, formats or media.</li>
-</ul>
+</ol>
 
 Hyperlinking to our Content
 The following organizations may link to our Website without prior written approval:
-<ul>
+<ol>
 <li>	Government agencies;</li>
 <li>	Search engines;</li>
 <li>	News organizations;</li>
-</ul>
+</ol>
 
 Online directory distributors may link to our Website in the same manner as they hyperlink to the Websites of other listed businesses; and
 System wide Accredited Businesses except soliciting non-profit organizations, charity shopping malls, and charity fundraising groups that may not hyperlink to our Web site.
 
 These organizations may link to our home page, to publications or to other Website information so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products and/or services; and (c) fits within the context of the linking party’s site.
 We may consider and approve other link requests from the following types of organizations:
-<ul> 
+<ol> 
 <li>	Commonly-known consumer and/or business information sources;</li>
 <li>	dot.com community sites;</li>
 <li>	associations or other groups representing charities;</li>
@@ -60,7 +60,7 @@ We may consider and approve other link requests from the following types of orga
 <li>	internet portals;</li>
 <li>	accounting, law and consulting firms; and</li>
 <li>	educational institutions and trade associations.</li>
-</ul>
+</ol>
 
 We will approve link requests from these organizations at our discretion 
 
@@ -77,11 +77,14 @@ If you find any link on our Website that is offensive for any reason, you are fr
 We do not ensure that the information on this website is correct, we do not warrant its completeness or accuracy; nor do we promise to ensure that the website remains available or that the material on the website is kept up to date.
 
 Disclaimer
+<ol>
+
 <li>To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to our website and the use of this website. Nothing in this disclaimer will:</li>
 <li>limit or exclude our or your liability for death or personal injury;</li>
 <li>limit or exclude our or your liability for fraud or fraudulent misrepresentation;</li>
 <li>limit any of our or your liabilities in any way that is not permitted under applicable law; or</li>
 <li>Exclude any of our or your liabilities that may not be excluded under applicable law.</li>
+</ol>
 
 </p>
     </div>
